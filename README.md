@@ -11,7 +11,7 @@
 #### Two endpoints:
 
 ### http://127.0.0.1:8000/api/banklist/    ---> list all the banks in database
-### 127.0.0.1:8000/api/1/branchlist/       ---> list all the branches of a particular bank   note: "1" in the url is ID of particular bank
+### http://127.0.0.1:8000/api/1/branchlist/       ---> list all the branches of a particular bank   note: "1" in the url is ID of particular bank
 
 ## filters
 
